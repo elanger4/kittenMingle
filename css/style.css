@@ -52,9 +52,8 @@
 	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 1000;
-		text-transform: uppercase;
-		line-height: 1.25em;
-		text-shadow: 5px 5px 5px #404040;
+		text-transform: uppercase;u
+		text-shadow: 5px 5px 5px #404040;	
 	}
 	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -795,24 +794,25 @@
 	{
 		position: relative;
 		color: #fff;
-		text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 		text-align: center;
 		margin: 0;
-		padding: 14em 0 14em 0;
+		padding: 0;
 		cursor: default;
+		text-shadow: 2px 2px #000000;
 	}
 	
 		#header header
 		{
 			display: inline-block;
-			padding: 0 0 4.5em 0;
+			padding: 0 0 6em 0;
 		}
 		
 			#header header h1
 			{
 				font-weight: 600;
-				font-size: 2em;
+				font-size: 4em;
 				letter-spacing: 10px;
+				padding-bottom: 20px;
 			}
 
 			#header header p
@@ -823,8 +823,7 @@
 				font-size: .75em;
 				text-transform: uppercase;
 				letter-spacing: 3px;
-				padding: 0;
-				margin-top: 0.35em;
+				margin-top: 1em;
 			}
 			
 				#header header p:before
