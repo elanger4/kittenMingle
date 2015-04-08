@@ -8,7 +8,7 @@
 
 	body
 	{
-		background-color:		#183026;
+		background-color:		#ffb4d9;
 		background-image:		url('http://s3.favim.com/orig/46/black-cats-cute-heart-love-Favim.com-413965.jpg'),			url('../images/bg.jpg');
 		background-repeat:		no-repeat,								no-repeat;
 		background-size:		cover,								cover;
@@ -44,7 +44,7 @@
 		line-height: 1.75em;
 		font-weight: 300;
 		letter-spacing: 1px;
-		color: #3a3939;
+		color: #3a3939	;
 		/*text-shadow: 5px 5px 5px #404040;*/
 		-webkit-text-stroke: 0.25px;
 	}
@@ -875,7 +875,7 @@
 		color: #fff;
 		text-shadow: 0 0 0.25px rgba(255,255,255,0.25);
 		text-align: center;
-		background: #35b88f url('images/banner.sv') bottom center no-repeat;
+		background: #ffb4d9 url('images/banner.sv') bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
