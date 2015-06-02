@@ -86,7 +86,7 @@
 
 	a
 	{
-		color: #35b88f;
+		color: #ffb4d9;
 		text-shadow: 0 0 0.5px rgba(53,184,143,0.25);
 		-moz-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-webkit-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
@@ -596,7 +596,7 @@
 			.box.style1
 			{
 				background: #fff;
-				background-color: #35B88F;
+				background-color: #ffb4d9;
 				padding: 3em;
 				border-top-right-radius: 275px;
 				border-bottom-right-radius: 275px;
@@ -612,7 +612,7 @@
 					width: 50%;
 					height: 100%;
 					overflow: hidden;
-					background-color: #35B88F;
+					background-color: #ffb4d9;
 					/*border-top-left-radius: 125px;
 					border-bottom-left-radius: 125px;*/
 				}
@@ -698,7 +698,7 @@
 					padding: 2em 3em 2em 3em;
 					margin: 0;
 					border-radius: 125px;
-					background-color: #35B88F;
+					background-color: #ffb4d9;
 				}
 
 					.box.style2 header p
@@ -753,7 +753,7 @@
 
 			.box.style3
 			{
-				background-color: #35b88f;
+				background-color: #ffb4d9;
 				padding: 3em;
 			}
 			
@@ -884,7 +884,7 @@
 
 		#banner .button
 		{
-			color: #35b882;
+			color: ##ffb4d9;
 			text-shadow: 0 0 0.25px rgba(53,184,130,0.25);
 		}
 
@@ -954,7 +954,7 @@
 		
 			#footer a:hover
 			{
-				color: #35b88f;
+				color: #ffb4d9;
 				text-shadow: 0 0 0.25px rgba(69,200,159,0.25);
 				border-bottom-color: rgba(53,184,143,0.5);
 			}
